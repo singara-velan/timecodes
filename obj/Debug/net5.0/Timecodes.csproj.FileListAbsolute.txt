@@ -1,0 +1,16 @@
+D:\Work\git\timecodes\obj\Debug\net5.0\Timecodes.csproj.AssemblyReference.cache
+D:\Work\git\timecodes\obj\Debug\net5.0\Timecodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\git\timecodes\obj\Debug\net5.0\Timecodes.AssemblyInfoInputs.cache
+D:\Work\git\timecodes\obj\Debug\net5.0\Timecodes.AssemblyInfo.cs
+D:\Work\git\timecodes\obj\Debug\net5.0\Timecodes.csproj.CoreCompileInputs.cache
+D:\Work\git\timecodes\bin\Debug\net5.0\Timecodes.exe
+D:\Work\git\timecodes\bin\Debug\net5.0\Timecodes.deps.json
+D:\Work\git\timecodes\bin\Debug\net5.0\Timecodes.runtimeconfig.json
+D:\Work\git\timecodes\bin\Debug\net5.0\Timecodes.runtimeconfig.dev.json
+D:\Work\git\timecodes\bin\Debug\net5.0\Timecodes.dll
+D:\Work\git\timecodes\bin\Debug\net5.0\ref\Timecodes.dll
+D:\Work\git\timecodes\bin\Debug\net5.0\Timecodes.pdb
+D:\Work\git\timecodes\obj\Debug\net5.0\Timecodes.dll
+D:\Work\git\timecodes\obj\Debug\net5.0\ref\Timecodes.dll
+D:\Work\git\timecodes\obj\Debug\net5.0\Timecodes.pdb
+D:\Work\git\timecodes\obj\Debug\net5.0\Timecodes.genruntimeconfig.cache
